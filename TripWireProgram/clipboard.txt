@@ -1,0 +1,6 @@
+{
+    "character": "Neytiri Mo'at'ite",
+    "time": "1682630147.54864",
+    "type": "text",
+    "data": "ZMT-455\tCosmic Signature\t\t\t0,0%\t4,57 AU\nFLY-444\tCosmic Signature\t\t\t0,0%\t18,65 AU\nQVH-916\tCosmic Signature\t\t\t0,0%\t13,74 AU\nKXE-728\tCosmic Signature\t\t\t0,0%\t15,11 AU\nTKA-965\tCosmic Signature\t\t\t0,0%\t13,64 AU\nZRV-050\tCosmic Signature\tData Site\tAEGIS Secure Transfer Facility\t100,0%\t14,30 AU\nGTL-552\tCosmic Signature\tWormhole\tUnstable Wormhole\t100,0%\t14,00 AU"
+}

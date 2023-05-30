@@ -1,14 +1,13 @@
 # Ignore sensitive data files
 
 # Ignore specific file
-TripWireProgram\__pycache__
-TripWireProgram\testing.ipynb
-TripWireProgram\backup
-TripWireAuthServer\serverConfig.ini
-TripWireProgram\myappinfo.ini
-TripWireAuthServer\Way2.png
-TripWireAuthServer\Way1.png
-TripWireAuthServer\Presentation1.pptx
+
+TripWireProgram/testing.ipynb
+TripWireAuthServer/serverConfig.ini
+TripWireProgram/myappinfo.ini
+TripWireAuthServer/Way2.png
+TripWireAuthServer/Way1.png
+TripWireAuthServer/Presentation1.pptx
 
 # Ignore all files with specific extension
 *.key
@@ -17,11 +16,13 @@ TripWireAuthServer\Presentation1.pptx
 *.json
 
 # Ignore entire directories
-sensitive_data/
-secrets/
+
+TripWireProgram/backup/
+TripWireProgram/__pycache__/
 
 # Ignore files in a specific directory
-config/database.yml
+TripWireAuthServer/data.json
+TripWireProgram/data.json
 
 # Ignore files in a specific nested directory
 credentials/*.json
